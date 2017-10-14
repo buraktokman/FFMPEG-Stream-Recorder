@@ -8,7 +8,7 @@ Copy the URL of the webpage or provide it as parameter which has live stream, th
 
 `python ffmpeg_stream_mp4.py [stream url]`
 
-NOTE: Stream url needs to be provided as parameter or copied to clipboard.
+**NOTE:** Stream url needs to be provided as parameter or copied to clipboard.
 
 Default download directory is current users desktop.
 
